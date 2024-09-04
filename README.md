@@ -1,4 +1,4 @@
-# Power-BI--AtliQ-Grands-Data-Analysis-
+# Power-BI--AtliQ-Grands-Data-Analysis
 
 ## Overview
 This project involves analyzing a dataset from AtliQ Grands, a prestigious five-star hotel group operating in India for over 20 years. Recently, the hotel chain has been experiencing a decline in market share and revenue. To address these challenges, their revenue team engaged in analyzing historical data to derive actionable insights.
